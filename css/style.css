@@ -8,9 +8,6 @@ body{
     align-items: center;
     vertical-align:middle;
     height: 100vh;
-    
-    
-
 }
 
 img{
@@ -18,9 +15,7 @@ img{
     max-width: 300px;
     max-height: 300px;
     border-radius: 10px;
-    
 }
-
 
 .white-bground{
     
@@ -32,13 +27,11 @@ img{
     padding: 20px;
 }
 
-
 .black-text{
     
     font-weight: 700;
     font-size: 24px;
 }
-
 
 .grey-text{
     font-size:  17px;
@@ -46,8 +39,11 @@ img{
     font-weight: 400;
 }
 
-
 .attribution {
     padding-top: 10px;
 	font-size: 10px;	
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
 }
